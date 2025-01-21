@@ -50,7 +50,6 @@ Hi there! 👋 I'm **Danish Vahora**, a passionate **BTech Computer Engineering 
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanishVahora&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanishVahora&theme=dark&hide_border=false" alt="GitHub Streak" width="48%"/> 
 </div>
 <br/>
