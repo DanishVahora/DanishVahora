@@ -46,4 +46,10 @@ Hi there! 👋 I'm **Danish Vahora**, a passionate **BTech Computer Engineering 
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=DanishVahora&icon=0&color=1)](https://visitcount.itsvg.in)
+## 🌟 3D Contribution Graph
+[![3D Contribution Graph](https://github.com/DanishVahora/DanishVahora/blob/main/github-metrics.svg)](https://skyline.github.com/DanishVahora/2023)
+
+---
+
+## 📊 Visitor Count
+![Visitor Count](https://komarev.com/ghpvc/?username=DanishVahora&color=1)
