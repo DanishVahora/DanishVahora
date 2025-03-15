@@ -48,6 +48,8 @@ Hi there! 👋 I'm **Danish Vahora**, a passionate **BTech Computer Engineering 
 
 ---
 
+![3D Contribution Graph](./3d-contrib-graph.png)
+
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanishVahora&theme=dark&hide_border=false" alt="GitHub Streak" width="48%"/> 
