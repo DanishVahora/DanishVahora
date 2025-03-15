@@ -52,4 +52,4 @@ Hi there! 👋 I'm **Danish Vahora**, a passionate **BTech Computer Engineering 
 ---
 
 ## 📊 Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=DanishVahora&color=1)
+![Visitor Count](https://komarev.com/ghpvc/?username=DanishVahora&color=0)
