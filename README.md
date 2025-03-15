@@ -38,14 +38,8 @@ Hi there! 👋 I'm **Danish Vahora**, a passionate **BTech Computer Engineering 
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanishVahora&theme=dark&hide_border=false" alt="GitHub Streak" width="48%"/>
-</div>
-
-### 🔝 Most Used Languages:
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanishVahora&theme=dark&hide_border=false&layout=compact" alt="Top Languages" width="48%"/>
 </div>
-
----
 
 ## 🏆 Top Contributed Repositories:
 ![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=DanishVahora&limit=5&theme=dark&combine_all_yearly_contributions=true)
