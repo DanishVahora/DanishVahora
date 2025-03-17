@@ -52,5 +52,5 @@ Hi there! 👋 I'm **Danish Vahora**, a passionate **BTech Computer Engineering 
 ---
 
 ## 📊 Contribution 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/DanishVahora/DanishVahora/blob/output/github-snake-dark.svg)
 
