@@ -45,18 +45,7 @@ I'm **Danish Vahora**, a passionate **BTech Computer Engineering student** with 
 
 ---
 
-## 💡 Selected Projects
 
-*Highlight a few of your key projects here with a brief description and links (if available).*
-
-- **Project Name**  
-  *Description of what the project does, technologies used, and your role.*
-- **Another Project**  
-  *Brief details about the project's impact and technologies involved.*
-
-> Feel free to add more projects as you grow your portfolio.
-
----
 
 ## 📈 GitHub Insights
 
@@ -74,8 +63,11 @@ I'm **Danish Vahora**, a passionate **BTech Computer Engineering student** with 
 ## 🌐 Connect with Me
 
 <div align="center">
+  
   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/7WBctwKV)
+  
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vhora_danish)
+  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danish-vahora-8b3b6b262/)
 </div>
 
