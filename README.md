@@ -178,14 +178,6 @@ I am a versatile developer passionate about building innovative solutions across
 
 ---
 
-## 📚 Education & Certifications
-
-- **Degree Name** - Institution, Year
-- **Certification Name** - Issuing Organization, Year
-- **Certification Name** - Issuing Organization, Year
-
----
-
 ## 🔄 Ongoing Contributions
 
 <div align="center">
