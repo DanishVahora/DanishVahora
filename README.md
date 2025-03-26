@@ -150,8 +150,8 @@ I am a versatile developer passionate about building innovative solutions across
               <img src="https://img.shields.io/badge/Live-blueviolet?style=for-the-badge&logo=netlify" alt="Live Demo"/>
             </a>
           </p>
-          <p><strong>Technologies Used:</strong> React, Node.js, MongoDB</p>
-          <p>Project description goes here. Explain what it does and highlight your contributions.</p>
+          <p><strong>Technologies Used:</strong> React, Python, SpringBoot, Taiwind CSS</p>
+          <p>Intelligent system leveraging AI/ML to automatically identify cryptographic algorithms and enhance cybersecurity.</p>
         </div>
       </td>
       <td width="50%">
@@ -168,8 +168,8 @@ I am a versatile developer passionate about building innovative solutions across
               <img src="https://img.shields.io/badge/Live-blueviolet?style=for-the-badge&logo=netlify" alt="Live Demo"/>
             </a>
           </p>
-          <p><strong>Technologies Used:</strong> Flutter, Firebase, TensorFlow</p>
-          <p>Project description goes here. Explain what it does and highlight your contributions.</p>
+          <p><strong>Technologies Used:</strong> React, Node.JS, Python, Jupyter Notebook, Taiwind CSS</p>
+          <p>Enterprise plant disease detection system using deep learning and computer vision for agricultural optimization.</p>
         </div>
       </td>
     </tr>
