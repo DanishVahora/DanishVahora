@@ -157,7 +157,7 @@ I am a versatile developer passionate about building innovative solutions across
       <td width="50%">
         <h3 align="center">Project 2</h3>
         <div align="center">
-          <a href="https://github.com/DanishVahora/project-link" target="_blank">
+          <a href="https://github.com/DanishVahora/LeafCare" target="_blank">
             <img src="https://via.placeholder.com/500x300?text=Project+2+Screenshot" width="100%" alt="Project 2"/>
           </a>
           <p>
@@ -200,7 +200,7 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 
 - 📧 Email: [danishvhora786@gmail.com](mailto:danishvhora786@gmail.com)
 - 💼 LinkedIn: [Danish Vahora](https://www.linkedin.com/in/danish-vahora-8b3b6b262/)
-- 🌐 Website: [Your personal website if available]
+- 🌐 Website: [My Portfolio](https://danishvahora.vercel.app/)
 
 ---
 
