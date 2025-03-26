@@ -150,7 +150,7 @@ I am a versatile developer passionate about building innovative solutions across
               <img src="https://img.shields.io/badge/Live-blueviolet?style=for-the-badge&logo=netlify" alt="Live Demo"/>
             </a>
           </p>
-          <p><strong>Technologies Used:</strong> React, Python, SpringBoot, Taiwind CSS</p>
+          <p><strong>Technologies Used:</strong> React, Python, SpringBoot, Google Collab, Taiwind CSS</p>
           <p>Intelligent system leveraging AI/ML to automatically identify cryptographic algorithms and enhance cybersecurity.</p>
         </div>
       </td>
