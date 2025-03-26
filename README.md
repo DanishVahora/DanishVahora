@@ -196,10 +196,8 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 
 ---
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=DanishVahora&icon=0&color=0" alt="Visit Count" />
-</div>
-
+]
+![Visit Counts](https://komarev.com/ghpvc/?username=DanishVahora&label=PROFILE+VIEWS)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
