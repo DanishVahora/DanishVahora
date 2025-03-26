@@ -196,7 +196,7 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 
 ---
 
-]
+
 ![Visit Counts](https://komarev.com/ghpvc/?username=DanishVahora&label=PROFILE+VIEWS)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
