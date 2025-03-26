@@ -139,14 +139,14 @@ I am a versatile developer passionate about building innovative solutions across
       <td width="50%">
         <h3 align="center">Project 1</h3>
         <div align="center">
-          <a href="https://github.com/DanishVahora/project-link" target="_blank">
-            <img src="https://via.placeholder.com/500x300?text=Project+1+Screenshot" width="100%" alt="Project 1"/>
+          <a href="https://github.com/DanishVahora/CryptML" target="_blank">
+            <img src="2.png" width="100%" alt="Project 1"/>
           </a>
           <p>
-            <a href="https://github.com/DanishVahora/project-link" target="_blank">
+            <a href="https://github.com/DanishVahora/CryptML" target="_blank">
               <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" alt="GitHub Repository"/>
             </a>
-            <a href="https://project-demo-link.com" target="_blank">
+            <a href="https://crypt-ml.vercel.app/" target="_blank">
               <img src="https://img.shields.io/badge/Live-blueviolet?style=for-the-badge&logo=netlify" alt="Live Demo"/>
             </a>
           </p>
@@ -158,13 +158,13 @@ I am a versatile developer passionate about building innovative solutions across
         <h3 align="center">Project 2</h3>
         <div align="center">
           <a href="https://github.com/DanishVahora/LeafCare" target="_blank">
-            <img src="https://via.placeholder.com/500x300?text=Project+2+Screenshot" width="100%" alt="Project 2"/>
+            <img src="1.png" width="100%" alt="Project 2"/>
           </a>
           <p>
-            <a href="https://github.com/DanishVahora/project-link" target="_blank">
+            <a href="https://github.com/DanishVahora/LeafCare" target="_blank">
               <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" alt="GitHub Repository"/>
             </a>
-            <a href="https://project-demo-link.com" target="_blank">
+            <a href="https://leafcare-production.up.railway.app/" target="_blank">
               <img src="https://img.shields.io/badge/Live-blueviolet?style=for-the-badge&logo=netlify" alt="Live Demo"/>
             </a>
           </p>
