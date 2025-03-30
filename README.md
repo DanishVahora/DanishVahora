@@ -170,6 +170,10 @@ I am a versatile developer passionate about building innovative solutions across
   <img src="https://github.com/DanishVahora/DanishVahora/blob/output/github-snake-dark.svg" alt="GitHub Snake" />
 </div>
 
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="650" alt="GitHub Contribution Stats"/>
+</div>
+
 ---
 
 ## 📫 Contact Me
