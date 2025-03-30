@@ -171,7 +171,7 @@ I am a versatile developer passionate about building innovative solutions across
 </div>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" width="650" alt="GitHub Contribution Stats"/>
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="650" alt="GitHub Contribution Stats"/>
 </div>
 
 ---
